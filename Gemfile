@@ -11,6 +11,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'react-rails'
 gem 'aws-sdk'
 gem 'bcrypt', '~> 3.1.7'
+gem "paperclip", "~> 4.2"
 
 group :development, :test do
   gem 'byebug'
